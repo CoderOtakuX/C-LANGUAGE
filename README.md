@@ -1,2 +1,2 @@
 # C-LANGUAGE
-A practice repo for c language
+A practice repo for c language .
