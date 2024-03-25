@@ -42,6 +42,37 @@ int main() {
     return 0;
 } */
 
-// PROGRAM FOR GRADING SYSTEM OF A STUDENT 
+/*PROGRAM FOR GRADING SYSTEM OF A STUDENT  
+
+#include <stdio.h>
+
+int main() {
+    int num;
+
+    printf("enter your marks");
+    scanf("%d", &num);
+
+    if (num >= 90) {
+        printf("O");
+    }
+    else if (num >= 80 && num <=89) {
+        printf("A+");
+    }
+    else if (num >= 70 && num <=79) {
+        printf("A");
+    }
+    else if (num >= 60 && num <=69) {
+        printf("B");
+    }
+    else if (num >= 50 && num <=59) {
+        printf("C");
+    }
+    else if (num >= 40 && num <=49) {
+        printf("D");
+    }
+    else {
+        printf("Fail");
+    }
+} */
 
 
