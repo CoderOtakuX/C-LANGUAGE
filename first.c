@@ -75,5 +75,20 @@ int main() {
     }
 } */
 
-// PROGRAM TO CHECK WHETHER THE YEAR IS LEAP YEAR OR NOT 
+/* PROGRAM TO CHECK WHETHER THE YEAR IS LEAP YEAR OR NOT 
 
+ #include <stdio.h>
+
+int main() {
+    int num;
+
+    printf("enter any year to check");
+    scanf("%d", &num);
+
+    if (num % 4 == 0) {
+        printf("%d is a leap year", num);
+    }
+    else {
+        printf("%d is not a leap year", num);
+    }
+} */
