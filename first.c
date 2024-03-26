@@ -93,4 +93,35 @@ int main() {
     }
 } */
 
-// PROGRAM TO FIND THE ROOTS OF A QUADRATIC EQUATION 
+/*PROGRAM TO FIND THE ROOTS OF A QUADRATIC EQUATION 
+
+#include <stdio.h>
+#include <math.h>
+
+int main() {
+    float a, b, c, discriminant, root1, root2, realPart, imaginaryPart;
+
+    printf("Enter coefficients a, b and c: ");
+    scanf("%f %f %f", &a, &b, &c);
+
+    discriminant = b * b - 4 * a * c;
+
+    if (discriminant < 0) {
+        root1=(-b + sqrt(discriminant)) / (2*a);
+        root2=(-b - sqrt(discriminant)) / (2*a);
+        printf("ROOTS ARE REAL AND DIFFERENT = \n");
+        printf("ROOT 1 = %d \n ",root1);
+        printf("ROOT 2 = %d \n ",root2);
+    }
+    else if (discriminant == 0) {
+        float realPart= -b / (2*a);
+        printf("ROOT IS REAL AND SAME \n");
+        printf("ROOT1 AND ROOT2 ARE SAME = %d\n",realPart);
+    }
+    else {
+        float realPart = -b / (2*a);
+        printf("ROOT IS COMPLEX AND DIFFERENT");
+        printf("ROOT 1 = %d + %d \n ", realPart, imaginaryPart);
+        printf("ROOT 2 = %d - %d \n ", realPart, imaginaryPart);
+    }
+} */
