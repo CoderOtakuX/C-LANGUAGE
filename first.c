@@ -92,3 +92,5 @@ int main() {
         printf("%d is not a leap year", num);
     }
 } */
+
+// PROGRAM TO FIND THE ROOTS OF A QUADRATIC EQUATION 
