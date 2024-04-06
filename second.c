@@ -10,3 +10,5 @@ int main() {
     }
     
     return 0; */
+
+WAP TO PRINT NUMBERS WHICH ARE MULTIPLE OF 5 IN BETWEEN 1-100 
