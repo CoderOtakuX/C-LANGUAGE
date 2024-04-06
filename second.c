@@ -1,4 +1,4 @@
- 1. WAP TO PRINT 1 TO 10 USING WHILE LOOP 
+/* 1. WAP TO PRINT 1 TO 10 USING WHILE LOOP 
 #include <stdio.h>
 
 int main() {
@@ -9,4 +9,4 @@ int main() {
         i++;
     }
     
-    return 0;
+    return 0; */
