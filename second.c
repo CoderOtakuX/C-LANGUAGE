@@ -7,7 +7,7 @@ int main() {
     while (i <= 10) {
         printf("%d \n", i);
         i++;
-    }.
+    }
     
     return 0; */
 
