@@ -11,7 +11,7 @@ int main() {
     
     return 0; */
 
-// WAP TO PRINT NUMBERS WHICH ARE MULTIPLE OF 5 IN BETWEEN 1-100 
+/* WAP TO PRINT NUMBERS WHICH ARE MULTIPLE OF 5 IN BETWEEN 1-100 
 
 #include <stdio.h>
 
@@ -22,5 +22,5 @@ int main() {
         printf("%d \n", i);
         i+=5;
     };
-}
+} */
 
