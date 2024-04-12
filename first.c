@@ -5,7 +5,7 @@ int main (){
     printf("HELLO WORLD");
 } */
 
-/*PROGRAM TO CHECK WHETHER THE NUMBER IS ODD OR EVEN  .
+/*PROGRAM TO CHECK WHETHER THE NUMBER IS ODD OR EVEN  
 
 #include <stdio.h>
 int main() {
@@ -19,7 +19,7 @@ int main() {
     }
 } */
 
-/*PROGRAM TO FIND THE LARGEST OF THE THREE NUMBER  .
+/*PROGRAM TO FIND THE LARGEST OF THE THREE NUMBER  
 
  #include <stdio.h>
 
