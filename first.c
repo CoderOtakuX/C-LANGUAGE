@@ -1,7 +1,7 @@
 /* PROGRAM TO PRINT HELLO WORLD
 
 #include <stdio.h>
-int main (){d
+int main (){
     printf("HELLO WORLD");x
 } */
 
