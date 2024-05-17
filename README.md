@@ -2,4 +2,3 @@
 A practice repo for c language .
 .
 .
-.
