@@ -8,7 +8,7 @@ int main() {
         printf("%d \n", i);
         i++;
     }
-    n
+    n.
     return 0; */
 
 /* 2 WAP TO PRINT NUMBERS WHICH ARE MULTIPLE OF 5 IN BETWEEN 1-100 
