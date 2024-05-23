@@ -2,7 +2,7 @@
 
 #include <stdio.h>
 int main (){.
-    printf("HELLO WORLD");x
+    printf("HELLO WORLD");x.
 } */ 
 
 /*PROGRAM TO CHECK WHETHER THE NUMBER IS ODD OR EVEN  
