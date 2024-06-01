@@ -1,4 +1,4 @@
-./* PROGRAM TO PRINT HELLO WORLD
+/* PROGRAM TO PRINT HELLO WORLD
 
 #include <stdio.h> 
 int main (){.
